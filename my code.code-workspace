@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../my code"
+		},
+		{
+			"path": "../my code 2"
+		},
+		{
+			"path": "../practice coding"
+		},
+		{
+			"path": "../PORTFOLIO"
+		},
+		{
+			"path": "../J codes"
+		},
+		{
+			"path": "../button"
+		},
+		{
+			"path": "../CSS NOTES"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "my code",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
